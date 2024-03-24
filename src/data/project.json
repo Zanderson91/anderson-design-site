@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "media": {
+            "thumb": "./images/project-details/graphql-thumb.png",
+            "image": "./images/project-details/graphql-reasons.png"
+        },
+        "title": "GraphQl Apollo Server",
+        "categories": ["Web/App"],
+        "challenge": "Create queries using GraphQl and Aollo Server",
+        "date": "January 17, 2022",
+        "team": "Zack - Developer",
+        "service": "Strategy, UI/UX Interaction, Mobile Design",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p>More than just a REST replacement, the graph is a unified representation of all your data, services, and digital capabilities. The graph enables app developers to delete thousands of lines of boilerplate code, move fast without waiting on backend teams, and keep features consistent across web and mobile platforms.</p>"],
+        "gallery": {
+            "imageOne": "./images/project-details/graphql-project-1.png",
+            "imageTwo": "./images/project-details/graphql-project-2.png",
+            "imageThree": "./images/project-details/apollo-home.jpeg"
+        }
+    },
+    {
+        "id": 2,
+        "media": {
+            "thumb": "./images/project-details/big-block-thumbnail.png",
+            "image": "./images/project-details/big-block-banner.png"
+        },
+        "title": "Big Block Customs Design",
+        "categories": ["Design","Web/App"],
+        "challenge": "Big Block Full Redesign",
+        "date": "March 2020",
+        "team": "Zack <br /> Anderson - NerdStuds",
+        "service": "Design, Branding, UI/UX, Mobile Design",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p>Bigblock Customs was born from a passion to evoke an emotional connection between a father and his child. Our toy cars are, therefore, much more than toys, they are dynamic tools for bonding and shared memories.</p>"],
+        "gallery": {
+            "imageOne": "./images/project-details/big-block-mockup.png",
+            "imageTwo": "./images/project-details/big-block-2.png",
+            "imageThree": "./images/project-details/big-block-image-3.png"
+        }
+    },
+    {
+        "id": 3,
+        "media": {
+            "thumb": "./images/project-details/atom-thumbnail.png",
+            "image": "./images/project-details/atom-header.png"
+        },
+        "title": "ATOM",
+        "categories": ["Design", "Branding"],
+        "challenge": "Brand and Design",
+        "date": "November 2021",
+        "team": "Nerdstuds<br /> Zack Anderson <br />",
+        "service": "Branding, UI/UX Interaction, Web Design",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p>ATOM is a bioelectric technology that accelerates natural healing. Client wanted modern tissues and connectors to bind medicine with new age technology. The geometry of this build combines design with medicine making it unique among other sites.</p>"],
+        "gallery": {
+            "imageOne": "./images/project-details/atom-image-1.png",
+            "imageTwo": "./images/project-details/atom-image-4.png",
+            "imageThree": "./images/project-details/atom-image-3.png"
+        }
+    },
+    {
+        "id": 4,
+        "media": {
+            "thumb": "./images/project-details/tbn-thumbnail.png",
+            "image": "./images/project-details/tbn-header1.png"
+        },
+        "title": "TBN Video On-Demand",
+        "categories": ["Web/App", "Design"],
+        "challenge": "UI/UX Design / Development for new platform",
+        "date": "March 2022",
+        "team": "TBN<br /> Zack Anderson - UI Design and Development",
+        "service": "Strategy, UI/UX Interaction, Web / Mobile Design",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p>TBN Video on Demand is a free app that gives instant access to thousands of christian video assets. With over 2.4 MILLION users, the VOD web application serves many families.</p>"],
+        "gallery": {
+            "imageOne": "./images/project-details/tbn-project-2.png",
+            "imageTwo": "./images/project-details/tbn-project-1.png",
+            "imageThree": "./images/project-details/tbn-project-3.png"
+        }
+    },
+    {
+        "id": 5,
+        "media": {
+            "thumb": "images/project-details/pet-grooming-thumbnail.png",
+            "image": "./images/project-details/pet-grooming-header.png"
+        },
+        "title": "Pet Grooming App",
+        "categories": ["Design"],
+        "challenge": "Design a Mobile App that allows users to create a profile, book/schedule services and checkout.",
+        "date": "March 2022",
+        "team": "Zack Anderson <br />U/UX Designer",
+        "service": "UI/UX Design, Interaction, Mobile Design",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p>The pet grooming app allows users to easily create a profile for their pet, book/schedule services and pay for the service in 3 simple steps. The UI is designed to be simple, modern and playful.</p>"],
+        "gallery": {
+            "imageOne": "./images/project-details/pet-project-1.png",
+            "imageTwo": "./images/project-details/pet-project-2.png",
+            "imageThree": "./images/project-details/pet-project-2.png"
+        }
+    },
+    {
+        "id": 6,
+        "media": {
+            "thumb": "./images/project-details/tau-thumbnail.png",
+            "image": "./images/project-details/tau-header.png"
+        },
+        "title": "Tau Leather",
+        "categories": ["Branding", "Design", "Web/App"],
+        "challenge": "Full Product / Web Build",
+        "date": "January 2021",
+        "team": "NerdStuds <br /> Zack Anderson Designer / Developer",
+        "service": "Branding, UI, Web Design",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p>TAU Leather is a brand that designs, manufactures and sells globally appealing, handmade lifestyle leather products. We believe that people are at the core of our brand success, and therefore we primarily focus on uplifting South Africans by empowering and employing them.</p>"],
+        "gallery": {
+            "imageOne": "./images/project-details/tau-project-1.png",
+            "imageTwo": "./images/project-details/tau-project-2.png",
+            "imageThree": "./images/project-details/tau-project-3.png"
+        }
+    }
+]

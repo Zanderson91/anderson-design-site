@@ -1,0 +1,187 @@
+[
+    {
+        "slider": [
+            {
+                "id": 1,
+                "backgroundImage": "/images/slider/slider-2.jpg",
+                "subTitle": "Latest project",
+                "title": "Trinity Broadcast Network <br /> Video on Demand Web App",
+                "desc": "Trinity Broadcasting Network is the world’s largest Christian television network and America’s most-watched faith-and-family channel. <br /> Watch positive, uplifting content live & on-demand!"
+            },
+            {
+                "id": 2,
+                "backgroundImage": "/images/slider/daniel",
+                "subTitle": "Latest project",
+                "title": "Bowmore Wine <br /> Rebranding",
+                "desc": "Combine with ideas of owner, Dustin Mahone. <br /> Arquito’s team completed a super villa with many powerful features, <br /> help owner really enjoy his life beside the beach"
+            },
+            {
+                "id": 3,
+                "backgroundImage": "/images/slider/slider-1.jpg",
+                "subTitle": "Latest project",
+                "title": "Bowmore Wine <br /> Rebranding",
+                "desc": "Combine with ideas of owner, Dustin Mahone. <br /> Arquito’s team completed a super villa with many powerful features, <br /> help owner really enjoy his life beside the beach"
+            }
+        ]
+    },
+    {
+        "brand": [
+            {
+                "id": 1,
+                "image": "./images/clients/tbn-logo.png"
+            },
+            {
+                "id": 2,
+                "image": "./images/clients/nerdstuds-logo.png"
+            },
+            {
+                "id": 3,
+                "image": "./images/clients/hebron-band-logo.png"
+            },
+            {
+                "id": 4,
+                "image": "./images/clients/liberty-logo.png"
+            },
+            {
+                "id": 5,
+                "image": "./images/clients/visions-logo.png"
+            }
+        ]
+    },
+    {
+        "iconBox": [
+            {
+                "id": "1",
+                "icon": "icofont-tie",
+                "title": "Professional and Dedicated",
+                "excerpt": "Working closely with clients to ensure everything is delivered on time."
+            },
+            {
+                "id": "2",
+                "icon": "icofont-electron",
+                "title": "Solid technical expertise",
+                "excerpt": "Well versed in modern tech stacks."
+            },
+            {
+                "id": "3",
+                "icon": "icofont-atom",
+                "title": "Creative and Thoughtful Design",
+                "excerpt": "Creativity is my passion."
+            },
+            {
+                "id": "4",
+                "icon": "icofont-chart-bar-graph",
+                "title": "Strategic SEO",
+                "excerpt": "Designing and developing with the client's needs at the core."
+            },
+            {
+                "id": "5",
+                "icon": "icofont-data",
+                "title": "Data Driven Decisions",
+                "excerpt": "Better load times, UX, User Interface, edit-ability and flexibility."
+            },
+            {
+                "id": "6",
+                "icon": "icofont-fire-alt",
+                "title": "Innovative and Intuitive",
+                "excerpt": "Thoughtful approach and solutions dedicated to meeting your needs."
+            },
+            {
+                "id": "7",
+                "icon": "icofont-briefcase",
+                "title": "Showcase and Engage",
+                "excerpt": "Stand out of the crowd!"
+            },
+            {
+                "id": "8",
+                "icon": "icofont-graduate",
+                "title": "Educate, inform, inspire",
+                "excerpt": "Learn, grow and engage with confidence on your new venture."
+            }
+        ]
+    },
+    {
+        "funfact": [
+            {
+                "id": 1,
+                "number": 8000,
+                "title": "Partner <br /> worldwide"
+            },
+            {
+                "id": 2,
+                "number": 1250,
+                "title": "employees and <br /> staffs"
+            },
+            {
+                "id": 3,
+                "number": 904,
+                "title": "project completed <br /> on 60 countries"
+            }
+        ]
+    },
+    {
+        "testimonial": [
+            {
+                "id": 1,
+                "icon": "icofont-quote-right",
+                "name": "Ryan Betthalyn",
+                "designation": "Director at Chobham Manor",
+                "excerpt": "Sed elit quam, iaculis sed semper sit amet udin vitae nibh. Rubino at magna akal semperFusce commodo molestie luctus.Lorem ipsum Dolor tusima olatiup."
+            },
+            {
+                "id": 2,
+                "icon": "icofont-quote-right",
+                "name": "Bobs Hanely",
+                "designation": "Director at Spotify",
+                "excerpt": "Sed elit quam, iaculis sed semper sit amet udin vitae nibh. Rubino at magna akal semperFusce commodo molestie luctus.Lorem ipsum Dolor tusima olatiup."
+            }
+        ]
+    },
+    {
+        "pricing": [
+            {
+                "id": 1,
+                "badgeType": "false",
+                "badge": "popular",
+                "icon": "icon-paper-plane",
+                "title": "Design",
+                "price": "Option 1 ",
+                "pricingList": [
+                    "Landing Pages",
+                    "Responsive Design",
+                    "Custom Domain Name",
+                    "Website Hosting"
+                ]
+            },
+            {
+                "id": 2,
+                "badgeType": "true",
+                "badge": "popular",
+                "icon": "icon-plane",
+                "title": "Develop",
+                "price": "<sup>$</sup>49.99<span>/ month</span>",
+                "pricingList": [
+                    "Landing Pages",
+                    "Responsive Design",
+                    "Custom Domain Name",
+                    "Website Hosting",
+                    "SEO Services",
+                    "Customizable CMS",
+                    "eCommerce Features",
+                    "Website Maintenance"
+                ]
+            },
+            {
+                "id": 3,
+                "badgeType": "false",
+                "badge": "popular",
+                "icon": "icon-rocket",
+                "title": "Maintain / Educate",
+                "price": "<sup>$</sup>100<span>/ month</span>",
+                "pricingList": [
+                    "Web Design"
+                ]
+            }
+        ]
+    }
+]

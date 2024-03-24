@@ -1,0 +1,58 @@
+[
+    {
+        "id": "Awards",
+        "title": "Project Timeline",
+        "yearOne": "2021-2022",
+        "yearTwo": "2020-2021",
+        "yearThree": "2020-2021",
+        "awardItem": [
+            {
+                "id": 1,
+                "className": "text-primary",
+                "cate": "GraphQl",
+                "title": "Certified <span>GraphQl Associate</span>"
+            },
+            {
+                "id": 2,
+                "className": "text-primary",
+                "cate": "Progressive Web App",
+                "title": "TBN<span> Video on Demand</span>"
+            },
+            {
+                "id": 3,
+                "className": "text-success",
+                "cate": "Backend API Client",
+                "title": "TBN <span> Backstage VOD / JW App</span>"
+            },
+            {
+                "id": 1,
+                "className": "text-primary",
+                "cate": "Design / Develop",
+                "title": "NerdStuds<span> Web Developer</span>"
+            },
+            {
+                "id": 2,
+                "className": "text-warning",
+                "cate": "AISD",
+                "title": "Enlightened <span>Technology Group</span>"
+            },
+            {
+                "id": 3,
+                "className": "text-warning",
+                "cate": "AISD",
+                "title": "Web Build <span>Azle High School</span>"
+            },
+                        {
+                            "id": 7,
+                            "className": "text-warning",
+                            "cate": "Hebron High School",
+                            "title": "Web Design <span>Azle High School</span>"
+                        }
+        ]
+    },
+    {
+        "id": "AboutContent",
+        "title": "<span>Hello!</span> I'm Zack Anderson. <br> Software Engineer <br> Frisco, TX.",
+        "excerpt": "Check out some of my work or connect with me on:"
+    }
+]
