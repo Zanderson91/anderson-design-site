@@ -1,11 +1,11 @@
 const HomeAbout = () => {
   return (
     <div className="section bg-dark overflow-hidden">
-      <div className="about-section section-padding mt-n3 mb-n1">
+      <div className="about-section section-padding mt-8 mb-n1">
         <div
           className="about-images"
           style={{
-            backgroundImage: `url(${process.env.PUBLIC_URL}/images/headshots/headshot-plaid-front1.png)`,
+            backgroundImage: `url(${process.env.PUBLIC_URL}/images/anderson-family-photo.jpg)`,
           }}
         ></div>
 
@@ -17,35 +17,38 @@ const HomeAbout = () => {
           >
             <div className="col-lg-6">
               <div className="about-content">
-                <h3 className="title">Zack Anderson</h3>
+                <h3 className="title">The Andersons</h3>
                 <p>
                   {" "}
-                  Web and Software Developer / Designer with dynamic and
-                  purposeful passion for creating and engineering solutions.
-                  Eager to grow and develop amidst the ever evolving trends and
-                  technologies. Experience demonstrated in streamlining
-                  educational organizations and achieving new standards within
-                  web development, project management and financial improvement.
-                  Well equipped with skills that contribute to overall product
-                  growth and capability.{" "}
-                </p>
-                <p>
-                  {" "}
-                  As a Lead CX/UX Designer, I excel in
-                  cultivating collaborative efforts across design, product,
-                  marketing and engineering teams. My expertise lies in
-                  delivering user-centric design solutions that resonate with
-                  users and growing market demands. With a diverse and creative
-                  background, I specialize in crafting captivating web and app
-                  experiences that truly engage users. I am particularly
-                  passionate about leveraging digital best practices to enhance
-                  engagement, communication, and satisfaction. I bring to the
-                  table an organized, thoughtful, and creative approach,
-                  enriching collaborative endeavors with my expertise. Let's
-                  collaborate to create exceptional digital experiences!{" "}
+                  We're The Andersons, a dedicated UX designer, developer and
+                  researcher committed to elevating digital experiences. With a
+                  rich background in user experience and research, we've had the
+                  privilege of collaborating with diverse clients across various
+                  industries, delivering impactful solutions that drive results.
+                  <br />
+                  <br />
+                  In today's digital landscape, user experience reigns supreme.
+                  It's not just about creating visually appealing websites; it's
+                  about crafting experiences that resonate with audiences and
+                  keep them coming back for more. We understand the importance
+                  of empathy-driven design, putting ourselves in the shoes of
+                  your users to create intuitive, user-centric interfaces.
+                  Investing in UX design isn't just about making your website
+                  look good, it's about driving tangible business outcomes.
+                  Studies have shown that businesses that prioritize UX see
+                  higher conversion rates, increased customer satisfaction, and
+                  lower bounce rates. By optimizing the user journey and
+                  reducing friction points, we can help you unlock the full
+                  potential of your digital presence.
+                  <br />
+                  <br />
+                  When you work with us, you're not just hiring a designer;
+                  you're partnering with strategic allies dedicated to your
+                  success. We have the expertise and
+                  creativity to bring your vision to life.{" "}
                 </p>
                 <img className="signzchar" src="./images/z-sign2.png" alt="" />
-                <h6 className="name">Zack Anderson</h6>
+                <h6 className="name">Zack & Sara Anderson</h6>
               </div>
             </div>
           </div>
